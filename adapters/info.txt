@@ -1,0 +1,2 @@
+adapters are used to transofrm the incoming data from the sources (yfinance csvs, ibkr api data or whatever)
+with the  data format our app expects: aka mostly pandas dataframes 
