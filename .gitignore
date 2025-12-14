@@ -21,7 +21,6 @@ uv.lock
 .streamlit/.cache/
 
 # Data / local artifacts
-data/
 cache/
 tmp/
 *.parquet
