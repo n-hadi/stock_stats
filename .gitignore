@@ -24,7 +24,6 @@ uv.lock
 cache/
 tmp/
 *.parquet
-*.csv
 *.feather
 *.h5
 
